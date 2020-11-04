@@ -1,4 +1,4 @@
-# Processo_Seletivo_Desenvolvedor_Pyton
+# Processo_Seletivo_Desenvolvedor_Python
 Shooju Simple Task
 
 By: lucas Robert Dos Santos Bueno
